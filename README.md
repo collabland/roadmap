@@ -1,2 +1,2 @@
 # roadmap
-GitHub public roadmap
+Collab.Land public roadmap
